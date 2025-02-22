@@ -1,5 +1,5 @@
 # ifcd0210
 pruebas curso <br>
-mas pruebas <br>
+más pruebas <br>
 y guardar con descripcion y mensaje
 cambiar nombre commit
